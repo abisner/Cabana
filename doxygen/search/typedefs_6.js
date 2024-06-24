@@ -1,4 +1,7 @@
 var searchData=
 [
-  ['index_5ftype_1547',['index_type',['../classCabana_1_1AoSoA.html#ae4ea168328e8d0ae5bad700291f91e34',1,'Cabana::AoSoA::index_type()'],['../classCabana_1_1SimdPolicy.html#a6c940eef6f2e86f0396f7c33ef0ce37e',1,'Cabana::SimdPolicy::index_type()'],['../classCabana_1_1Slice.html#ac9359d67bf65799d2bbe593cb9b3aa09',1,'Cabana::Slice::index_type()']]]
+  ['halo_5fpattern_5ftype_0',['halo_pattern_type',['../classCabana_1_1Grid_1_1Experimental_1_1SparseHalo.html#a9c69f1cf7b9a82406a5a7b3f4ab20c57',1,'Cabana::Grid::Experimental::SparseHalo']]],
+  ['heffte_5fbackend_5ftype_1',['heffte_backend_type',['../classCabana_1_1Grid_1_1Experimental_1_1HeffteFastFourierTransform.html#aa9c092b9f264b4fa00f4dfc8d43cabc0',1,'Cabana::Grid::Experimental::HeffteFastFourierTransform']]],
+  ['host_5fmirror_5ftype_2',['host_mirror_type',['../classCabana_1_1AoSoA.html#ade1d07d5dcdbb7c500729701184eea87',1,'Cabana::AoSoA']]],
+  ['host_5frank_5fview_5ftype_3',['host_rank_view_type',['../classCabana_1_1Grid_1_1GlobalParticleComm.html#a2531c5ab3b204aa6bd4d049d2141724f',1,'Cabana::Grid::GlobalParticleComm']]]
 ];

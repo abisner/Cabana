@@ -1,5 +1,5 @@
 var searchData=
 [
-  ['w_1525',['w',['../structCajita_1_1SplineDataMember_3_01Scalar_00_01Order_00_01NumSpaceDim_00_01SplineWeightValues_01_4.html#a28cd8136a08f7b90c8295bb43a6a86fd',1,'Cajita::SplineDataMember&lt; Scalar, Order, NumSpaceDim, SplineWeightValues &gt;']]],
-  ['workload_5fprefix_5fsum_1526',['workload_prefix_sum',['../structCajita_1_1SparseDimPartitioner_1_1SubWorkloadFunctor.html#a6e404714b157f7db41e50563c553c566',1,'Cajita::SparseDimPartitioner::SubWorkloadFunctor']]]
+  ['threshold_0',['threshold',['../structCabana_1_1Experimental_1_1HDF5ParticleOutput_1_1HDF5Config.html#a6773779b4ceeeccb3b791e7703d5aef4',1,'Cabana::Experimental::HDF5ParticleOutput::HDF5Config']]],
+  ['total_1',['total',['../structCabana_1_1Experimental_1_1CrsGraph.html#a8f82700cb82e349f1fe03d41d3949bf4',1,'Cabana::Experimental::CrsGraph::total'],['../structCabana_1_1Experimental_1_1Dense.html#a2698c70db2c11e52954141f59973a2f4',1,'Cabana::Experimental::Dense::total']]]
 ];

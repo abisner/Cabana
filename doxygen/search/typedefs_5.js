@@ -1,5 +1,4 @@
 var searchData=
 [
-  ['heffte_5fbackend_5ftype_1545',['heffte_backend_type',['../classCajita_1_1Experimental_1_1HeffteFastFourierTransform.html#a00473b89e6e2c9699d8e52a5ecbc5120',1,'Cajita::Experimental::HeffteFastFourierTransform']]],
-  ['host_5fmirror_5ftype_1546',['host_mirror_type',['../classCabana_1_1AoSoA.html#a7e2d90496a5c6c7116ad25a6ad8bab8b',1,'Cabana::AoSoA']]]
+  ['global_5fgrid_5ftype_0',['global_grid_type',['../classCabana_1_1Grid_1_1GlobalParticleComm.html#a1a7330509b497bd96efec289643bd42c',1,'Cabana::Grid::GlobalParticleComm']]]
 ];
